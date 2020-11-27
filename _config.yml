@@ -11,19 +11,19 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://username.github.io/
-baseurl: /sustain/
-title: Chris Turner
-author: Chris Turner
+url: http://tjhosford.github.io/
+baseurl: /
+title: Tom Hosford
+author: Tom Hosford
 description: Personal blog and resume
-avatar: profile.png
-email: yourname@email.com
-github: jekyller/sustain # username
-twitter: username
-linkedin: username
-stackoverflow: username   #e.g: users/2735833/proton1h1
+avatar: headshot3.png
+email: tomhosford@gmail.com
+github: tjhosford # username
+twitter: t__hos
+instagram: t__hos
+linkedin: tom-hosford-6086b319
 #Comment out if you don't want disqus
-disqus: username
+#disqus: username
 google_analytics: UA-69391421-1
 
 
